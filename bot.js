@@ -14,5 +14,11 @@ client.on('message', message => {
     	message.reply(':blobkissheart: Im sorry! This is the best I can do!');
   	}
 });
+
+client.on('message', message => {
+    if (message.content === 'Naiz, can I have a hug?') {
+    	message.reply(':blobkissheart: Im sorry! This is the best I can do!');
+  	}
+});
 // THIS  MUST  BE  THIS  WAY
 client.login(process.env.BOT_TOKEN);

@@ -1,2 +1,2 @@
-# Naiz-NK-
+# Naiz
 The Nuur Khuudas Discord Bot

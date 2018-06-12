@@ -18,13 +18,11 @@ client.on('message', message => {
 });
 client.on('message', message => {
     if (message.content === 'Who are the Hana?') {
-    	message.reply('☼ **H A N A** ☼
-o Tribe Color: White/Red
-o Location: Unknown
-o Characteristics: Tolerant | Benign | Pacifists
-A splinter sect of the Kha that broke off many generations ago.
-They were a culmination of Xaela and Raen who followed a set of teachings emphasizing pacifism and peace.
-The tribe was mostly wiped out by the Garlean Empire approximately 15 years ago.');
+    	message.reply('☼ **H A N A** ☼');
+    	message.reply('o Tribe Color: White/Red');
+    	message.reply('o Location: Unknown');
+    	message.reply('o Characteristics: Tolerant | Benign | Pacifists');
+    	message.reply('A splinter sect of the Kha that broke off many generations ago. They were a culmination of Xaela and Raen who followed a set of teachings emphasizing pacifism and peace. The tribe was mostly wiped out by the Garlean Empire approximately 15 years ago.');
   	}
 });
 client.on('message', message => {

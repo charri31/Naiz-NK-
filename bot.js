@@ -7,7 +7,32 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'Good morning, Naiz') {
-    	message.reply('Good morning to you too!');
+    	message.reply('Sain öglöö!');
+  	}
+});
+client.on('message', message => {
+    if (message.content === 'Naiz, can you bring me a coffee?') {
+    	message.reply('Ah... well... I can try!');
+  	}
+});
+client.on('message', message => {
+    if (message.content === 'I need coffee.') {
+    	message.reply('Would you like me to find you some?');
+  	}
+});
+client.on('message', message => {
+    if (message.content === 'I tea coffee.') {
+    	message.reply('Would you like me to find you some?');
+  	}
+});
+client.on('message', message => {
+    if (message.content === 'Yes please, Naiz.') {
+    	message.reply('Alrighty! Let me see what I can find!');
+  	}
+});
+client.on('message', message => {
+    if (message.content === 'Thank you, Naiz.') {
+    	message.reply('Sure thing!');
   	}
 });
 

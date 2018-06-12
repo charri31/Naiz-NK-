@@ -13,7 +13,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 'Naiz, can I have a hug?') {
-    	message.reply('Im sorry! This is the best I can do! \n Is that alright?');
+    	message.reply('Im sorry! This is the best I can do! \n\ Is that alright?');
   	}
 });
 client.on('message', message => {

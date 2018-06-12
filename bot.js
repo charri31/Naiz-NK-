@@ -123,7 +123,7 @@ message.reply('\n\☼ **D A Z K A R** ☼\n\o Tribe Color: Seafoam Green\n\o Loc
 });
 client.on('message', message => {
     if (message.content === 'Who are the Oronir?') {
-message.reply('\n\☼ **O R O N I R** ☼\n\o Tribe Color: Gold | Honey Yellow\n\o Location: Azim Khaat\n\o Characteristics: War-like | Domineering\n\Lead by Magnai Khan\n\All members of the Oronir tribe believe themselves to be direct descendants of Azim, God of the Sun. Currently they reside alongside the Buduga within The Dawn Throne.\n\\n\Celebrations: In a bought known as Azim Bokh, members of the Oronir are pitted against each other in show of physical skill, determining among them who is most fit-- or least fit, to lead.');
+message.reply('\n\☼ **O R O N I R** ☼\n\o Tribe Color: Gold | Honey Yellow\n\o Location: Azim Khaat\n\o Characteristics: War-like | Domineering\n\Lead by Magnai Khan\n\All members of the Oronir tribe believe themselves to be direct descendants of Azim, God of the Sun. Currently they reside alongside the Buduga within The Dawn Throne.\n\**Celebrations:** In a bout known as Azim Bokh, members of the Oronir are pitted against each other in show of physical skill, determining among them who is most fit-- or least fit, to lead.');
   	}
 });
 client.on('message', message => {
@@ -173,7 +173,7 @@ message.reply('\n\☼ **E J I N N** ☼\n\o Tribe Color: Unknown\n\o Location: U
 });
 client.on('message', message => {
     if (message.content === 'Who are the Dotharl?') {
-message.reply('\n\☼ **D O T H A R L** ☼\n\o Tribe Color: Void | Storm Blue\n\o Location: Dotharl Khaa\n\o Characteristics: War-like | Hostile | Spiritual\n\Lead by Sadu Khatun.\n\An extremely violent tribe with members who revel in massacre and are taught from a young age not to fear death. \n\While they are quick to attack other tribes, mortality rates are high, ensuring that their numbers never grow too high.\n\They are known among the other tribes for being one of few that believe in the soul\'s reincarnation, and revel in battle that their souls may burn brighter.\n\\n\Celebrations: Revered as both Hunters and Warriors, the Dotharl will honor the Dusk Mother with a display of their archery skill-- the furthest arrow loosed with the truest aim being the most meritable.');
+message.reply('\n\☼ **D O T H A R L** ☼\n\o Tribe Color: Void | Storm Blue\n\o Location: Dotharl Khaa\n\o Characteristics: War-like | Hostile | Spiritual\n\Lead by Sadu Khatun.\n\An extremely violent tribe with members who revel in massacre and are taught from a young age not to fear death. \n\While they are quick to attack other tribes, mortality rates are high, ensuring that their numbers never grow too high.\n\They are known among the other tribes for being one of few that believe in the soul\'s reincarnation, and revel in battle that their souls may burn brighter.\n\**Celebrations:** Revered as both Hunters and Warriors, the Dotharl will honor the Dusk Mother with a display of their archery skill-- the furthest arrow loosed with the truest aim being the most meritable.');
   	}
 });
 client.on('message', message => {
@@ -198,7 +198,7 @@ message.reply('\n\☼ **K H A** ☼\n\o Tribe Color: Unknown\n\o Location: Unkno
 });
 client.on('message', message => {
     if (message.content === 'Who are the Mol?') {
-message.reply('\n\☼ **M O L** ☼\n\o Tribe Color: Rust Red\n\o Location: Mol Iloh\n\o Characteristics: Benign | Shaman | Peacekeepers\n\A small tribe of devout worshippers of the elder gods. \n\The Mol will consult with their deities via ugdan [shaman] before making any tribe-related decisions, from the direction of their next migration, to the beasts they will hunt each day for food.\n\\n\Celebrations: When the children come of age, a race is held on horseback through the grasslands to display the prowess of both young rider and steed to the gods.');
+message.reply('\n\☼ **M O L** ☼\n\o Tribe Color: Rust Red\n\o Location: Mol Iloh\n\o Characteristics: Benign | Shaman | Peacekeepers\n\A small tribe of devout worshippers of the elder gods. \n\The Mol will consult with their deities via ugdan [shaman] before making any tribe-related decisions, from the direction of their next migration, to the beasts they will hunt each day for food.\n\**Celebrations:** When the children come of age, a race is held on horseback through the grasslands to display the prowess of both young rider and steed to the gods.');
   	}
 });
 client.on('message', message => {
